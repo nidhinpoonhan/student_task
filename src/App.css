@@ -1,0 +1,11 @@
+html,#root,body{
+  height:100%;
+}
+body{
+  overflow-y: auto;
+  background: #eee;
+  margin: 0px;
+}
+a{
+  text-decoration: none;
+}
